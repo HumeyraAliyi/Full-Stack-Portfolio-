@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Portfolio
 
-Hello! My name is Humeyra.
+Hello! My name is Semira
 
 I am learning Full-Stack Web Development.
 
